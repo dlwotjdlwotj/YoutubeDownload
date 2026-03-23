@@ -7,7 +7,7 @@
 > * 장기 프로젝트에서도 규칙이 무너지지 않게
 > * “운영 헌법 v2” 개념 명확화
 
----
+--- 
  
 # 📘 Cursor Project Initialization Guide
 
