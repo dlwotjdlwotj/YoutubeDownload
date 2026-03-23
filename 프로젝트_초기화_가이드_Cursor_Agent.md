@@ -8,7 +8,7 @@
 > * “운영 헌법 v2” 개념 명확화
 
 ---
-
+ 
 # 📘 Cursor Project Initialization Guide
 
 ## AGENTS.md + Rules + Memory Bank 통합 설계 (운영 헌법 v2)
