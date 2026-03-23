@@ -9,7 +9,7 @@ import re
 import logic
 
 class FetchThread(QThread):
-    # (결과 딕셔너리, 이미지 바이트 데이터) 반환
+    # (결과 딕셔너리, 이미지 바이트 데이터) 반환 
     result_ready = pyqtSignal(dict, bytes)
     
     def __init__(self, url):
