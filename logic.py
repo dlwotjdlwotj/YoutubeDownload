@@ -3,7 +3,7 @@ import yt_dlp
 import requests
 
 def extract_video_info(url: str) -> dict:
-    """
+    """ 
     유튜브 URL에서 영상 정보를 추출합니다.
     :param url: 유튜브 영상 URL
     :return: 성공 시 {'success': True, 'title': str, 'thumbnail_url': str, 'view_count': int}
